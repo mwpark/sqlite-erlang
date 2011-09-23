@@ -1,4 +1,28 @@
+<<<<<<< HEAD
 doc/
 ebin/
 priv/*.o
 *.plt
+=======
+sqlite3.plt
+.svn
+*/.svn
+*.db
+*.swp
+*~
+erl_crash.dump
+*.o
+.eunit
+*.orig
+ebin
+priv
+TEST*.xml
+*.exp
+*.lib
+*.obj
+*.dll
+rebar.cross_compile.config
+config.tmp
+*.beam
+*.so
+>>>>>>> c3817095b2d2aa5ccb5bd2cd9ecc42e6f7822ed7
